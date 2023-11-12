@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.calculator {
+  max-width: 350px;
+  max-height: 500px;
+  border: 2px solid black;
+}
+.display {
+  color: aquamarine;
+  min-height: 50px;
+  text-align: center;
+}
+.buttons {
+  color: red;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.c {
+  text-align: center;
+  min-height: 30px;
+  border: 2px solid black;
+}
