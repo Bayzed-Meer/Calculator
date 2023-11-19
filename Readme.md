@@ -1,4 +1,4 @@
-#Task1 - Industial Attachment - SELISE
+#Task1 - Industrial Attachment - SELISE
 
 #Calculator build using html, css and javascript
 
